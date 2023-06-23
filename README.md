@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bdoctors, from Buenos Aires
-- 👀 I’m interested in ... Salesforce, Apex, Java, JavaScript, Telecom, Electronics and Power generation.
+- 👀 I’m interested in ... Salesforce, Veeva, Apex, Java, JavaScript, Telecom, Electronics and Power generation.
 - 🌱 I’m currently learning ...Salesforce Developer Basics, Platform Aplication Builder and Advanced Administration
 - 💞️ I’m looking to collaborate on ...Guess what? Salesforce!
 - 📫 How to reach me ...check my Linkedin profile linkedin.com/in/benjamin-doctors/
